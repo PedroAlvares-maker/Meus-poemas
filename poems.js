@@ -1170,7 +1170,7 @@ Que sempre esteve dentro do coração
 Enormes sentimentos
 Fortes emoções
 Mas somos apenas tolos
-Serem insignificantes aos olhos do universo
+Seres insignificantes aos olhos do universo
 Pois no fim de tudo
 São apenas cores`,
             },
